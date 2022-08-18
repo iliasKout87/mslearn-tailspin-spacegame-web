@@ -47,7 +47,7 @@ steps:
   parameters:
     buildConfiguration: 'Debug'
 
-- template: templates/bild.yml
+- template: templates/build.yml
   parameters:
     buildConfiguration: 'Release'
 
